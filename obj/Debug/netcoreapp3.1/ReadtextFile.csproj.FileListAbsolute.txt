@@ -1,0 +1,13 @@
+C:\Users\ABE4042\source\repos\ReadtextFile\ReadtextFile\bin\Debug\netcoreapp3.1\ReadtextFile.exe
+C:\Users\ABE4042\source\repos\ReadtextFile\ReadtextFile\bin\Debug\netcoreapp3.1\ReadtextFile.deps.json
+C:\Users\ABE4042\source\repos\ReadtextFile\ReadtextFile\bin\Debug\netcoreapp3.1\ReadtextFile.runtimeconfig.json
+C:\Users\ABE4042\source\repos\ReadtextFile\ReadtextFile\bin\Debug\netcoreapp3.1\ReadtextFile.runtimeconfig.dev.json
+C:\Users\ABE4042\source\repos\ReadtextFile\ReadtextFile\bin\Debug\netcoreapp3.1\ReadtextFile.dll
+C:\Users\ABE4042\source\repos\ReadtextFile\ReadtextFile\bin\Debug\netcoreapp3.1\ReadtextFile.pdb
+C:\Users\ABE4042\source\repos\ReadtextFile\ReadtextFile\obj\Debug\netcoreapp3.1\ReadtextFile.csprojAssemblyReference.cache
+C:\Users\ABE4042\source\repos\ReadtextFile\ReadtextFile\obj\Debug\netcoreapp3.1\ReadtextFile.AssemblyInfoInputs.cache
+C:\Users\ABE4042\source\repos\ReadtextFile\ReadtextFile\obj\Debug\netcoreapp3.1\ReadtextFile.AssemblyInfo.cs
+C:\Users\ABE4042\source\repos\ReadtextFile\ReadtextFile\obj\Debug\netcoreapp3.1\ReadtextFile.csproj.CoreCompileInputs.cache
+C:\Users\ABE4042\source\repos\ReadtextFile\ReadtextFile\obj\Debug\netcoreapp3.1\ReadtextFile.dll
+C:\Users\ABE4042\source\repos\ReadtextFile\ReadtextFile\obj\Debug\netcoreapp3.1\ReadtextFile.pdb
+C:\Users\ABE4042\source\repos\ReadtextFile\ReadtextFile\obj\Debug\netcoreapp3.1\ReadtextFile.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Users\ABE4042\OneDrive - MyDigitalSpace\Desktop\ReadtextFile.exe
+C:\Users\ABE4042\OneDrive - MyDigitalSpace\Desktop\ReadtextFile.dll
+C:\Users\ABE4042\OneDrive - MyDigitalSpace\Desktop\ReadtextFile.deps.json
+C:\Users\ABE4042\OneDrive - MyDigitalSpace\Desktop\ReadtextFile.runtimeconfig.json
+C:\Users\ABE4042\OneDrive - MyDigitalSpace\Desktop\ReadtextFile.pdb

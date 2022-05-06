@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "peYq4qn/TwOtK79wUwbrAOwMQNvNEzlVsCyvUMLRQSC7wEyeGPHZcf6JwVPhIICPBqbGkZQBYOlphcnk1O8CYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ABE4042\\source\\repos\\ReadtextFile\\ReadtextFile\\ReadtextFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ABE4042\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
